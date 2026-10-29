@@ -188,8 +188,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "135da1947fc549f1",
+  "active": "7d3686456b8e183a",
   "lastOpenFiles": [
+    "VLLM学习/05-Model Runner 输入准备.md",
+    "VLLM学习/06-模型前向与 Tensor 流.md",
     "VLLM学习/04-KV Cache 与 PagedAttention.md",
     "VLLM学习/03-调度器原理.md",
     "欢迎.md",
